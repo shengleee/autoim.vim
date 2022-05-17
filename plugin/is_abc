@@ -2,4 +2,4 @@
 
 defaults read ~/Library/Preferences/com.apple.HIToolbox.plist \
 AppleSelectedInputSources | \
-grep '"KeyboardLayout Name" = ABC'
+grep '"KeyboardLayout Name" = "US Extended"'
